@@ -1,5 +1,9 @@
+#Base on this tutorial https://youtu.be/Rg29fnSGc5U
+#pip install selenium
+#pip install web
+#pip install ?ikernelpy? something
 from time import sleep
-from selenium import webdriver
+from selenium import webdriver-manager
 from webdriver_manager.chrome import ChromeDriverManager
 
 driver=webdriver.Chrome(ChromeDriverManager().install())
