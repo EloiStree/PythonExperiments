@@ -1,0 +1,5 @@
+
+py -m pip install pyautogui
+pip install Pillow --upgrade
+- https://pyautogui.readthedocs.io/en/latest/install.html
+  - https://stackoverflow.com/questions/50782056/pyautogui-screenshot-function-doesnt-recognize-installed-pillow-module
